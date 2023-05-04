@@ -1,4 +1,3 @@
-# p4ch2023
 # INFO-664-01 Programming for Cultural Heritage 
 ## Pratt Institute Spring 2023
 
